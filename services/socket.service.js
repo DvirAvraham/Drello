@@ -32,9 +32,11 @@ function connectSockets(http, session) {
             // emits only to sockets in the same room
             gIo.to(socket.myTopic).emit('board update')
         })
-        // socket.on('chat typing', username => {
-        //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
-        // })
+        socket.on('activity notify', async ({ activity, boardMembers }) => {
+            broadcast({ type: 'notify activity', data: activity, userId: activity.byMember._id })
+            // socket.on('chat typing', username => {
+            //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
+        })
         socket.on('notify user tag', async activity => {
             await emitToUser({ type: 'tag user', data: activity, userId: activity.to._id })
         })

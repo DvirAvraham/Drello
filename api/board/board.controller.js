@@ -13,6 +13,7 @@ module.exports = {
 
 // LIST
 async function getBoards(req, res) {
+  console.log('req.session', req.session)
   try {
     const filterBy = req.query
     filterBy.currUser = req.session.user;
