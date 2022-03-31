@@ -1333,3 +1333,165 @@
 3/30/2022, 10:38:59 PM - DEBUG - broadcast to all but user:  | 62449a3e13535167d6c5a5a7
 3/30/2022, 10:42:24 PM - DEBUG - broadcast to all but user:  | 62449a4613535167d6c5a5a8
 3/30/2022, 10:42:31 PM - DEBUG - broadcast to all but user:  | 62449a4613535167d6c5a5a8
+30/03/2022, 23:30:01 - INFO - Server is running on port: 3030
+30/03/2022, 23:30:29 - ERROR - cannot find boards | {}
+30/03/2022, 23:30:29 - ERROR - Failed to get boards | {}
+30/03/2022, 23:30:37 - DEBUG - auth.service - signup with username: dima, fullname: dima
+30/03/2022, 23:30:37 - DEBUG - auth.service - login with username: dima
+30/03/2022, 23:30:37 - DEBUG - Setting (9cjTVefxSCw12MV9AAAD) socket.userId = 6244bded58786cd741caa940
+30/03/2022, 23:30:47 - DEBUG - auth.service - login with username: guest
+30/03/2022, 23:30:47 - ERROR - Failed to Login Invalid username or password
+30/03/2022, 23:30:54 - DEBUG - auth.service - signup with username: admin, fullname: admin
+30/03/2022, 23:30:55 - DEBUG - auth.service - login with username: admin
+30/03/2022, 23:30:55 - DEBUG - Setting (qyhX0JlrCg8HIVlLAAAF) socket.userId = 6244bdff58786cd741caa941
+30/03/2022, 23:43:20 - INFO - Server is running on port: 3030
+30/03/2022, 23:43:26 - ERROR - cannot find boards | {}
+30/03/2022, 23:43:26 - ERROR - Failed to get boards | {}
+30/03/2022, 23:43:30 - DEBUG - auth.service - login with username: dima
+30/03/2022, 23:43:30 - DEBUG - Setting (PRAAj7NvurTmV1OhAAAB) socket.userId = 6244bded58786cd741caa940
+30/03/2022, 23:43:44 - DEBUG - auth.service - login with username: guest
+30/03/2022, 23:43:44 - ERROR - Failed to Login Invalid username or password
+30/03/2022, 23:43:50 - DEBUG - auth.service - login with username: admin
+30/03/2022, 23:43:50 - DEBUG - Setting (mArtfNdbDkBOHmuXAAAD) socket.userId = 6244bdff58786cd741caa941
+30/03/2022, 23:43:53 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:43:59 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:44:06 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:44:11 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+30/03/2022, 23:44:29 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+30/03/2022, 23:44:58 - DEBUG - auth.service - login with username: guest
+30/03/2022, 23:44:58 - ERROR - Failed to Login Invalid username or password
+30/03/2022, 23:45:07 - DEBUG - auth.service - login with username: guest
+30/03/2022, 23:45:07 - ERROR - Failed to Login Invalid username or password
+30/03/2022, 23:45:10 - DEBUG - auth.service - login with username: guest
+30/03/2022, 23:45:10 - ERROR - Failed to Login Invalid username or password
+30/03/2022, 23:45:14 - DEBUG - auth.service - login with username: admin
+30/03/2022, 23:45:14 - DEBUG - Setting (QBIoRVEACgSjN2vcAAAL) socket.userId = 6244bdff58786cd741caa941
+30/03/2022, 23:45:17 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:45:36 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:45:39 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:45:43 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:45:46 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:45:47 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:46:24 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:46:31 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:46:39 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+30/03/2022, 23:47:01 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+30/03/2022, 23:48:39 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:50:25 - INFO - Server is running on port: 3030
+31/03/2022, 8:50:30 - ERROR - cannot find boards | {}
+31/03/2022, 8:50:30 - ERROR - Failed to get boards | {}
+31/03/2022, 8:50:33 - DEBUG - auth.service - login with username: dima
+31/03/2022, 8:50:34 - DEBUG - Setting (mP1OD-dOOfAtRUdRAAAB) socket.userId = 6244bded58786cd741caa940
+31/03/2022, 8:50:47 - DEBUG - auth.service - login with username: guest
+31/03/2022, 8:50:47 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 8:50:51 - DEBUG - auth.service - login with username: admin
+31/03/2022, 8:50:51 - DEBUG - Setting (PHqsRof1_x6w1sFsAAAD) socket.userId = 6244bdff58786cd741caa941
+31/03/2022, 8:51:08 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:10 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:12 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:16 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:17 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:18 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:19 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:20 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:21 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:51:22 - DEBUG - broadcast to all but user:  | 6244bded58786cd741caa940
+31/03/2022, 8:52:27 - DEBUG - auth.service - login with username: guest
+31/03/2022, 8:52:27 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 8:52:34 - DEBUG - auth.service - login with username: admin
+31/03/2022, 8:52:34 - DEBUG - Setting (IEFXBJKEOnrYAJkTAAAJ) socket.userId = 6244bdff58786cd741caa941
+31/03/2022, 8:52:39 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:47 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:48 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:49 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:49 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:50 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:51 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:56 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:56 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:52:57 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:00 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:00 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:07 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:10 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:17 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:22 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:28 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:29 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:36 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:38 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:53:39 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:54:24 - DEBUG - auth.service - login with username: admin
+31/03/2022, 8:54:24 - DEBUG - Setting (5wybviaw0aFSyDJuAAAH) socket.userId = 6244bdff58786cd741caa941
+31/03/2022, 8:54:31 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:54:33 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 8:57:07 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 9:14:25 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 9:14:30 - DEBUG - broadcast to all but user:  | 6244bdff58786cd741caa941
+31/03/2022, 9:14:55 - INFO - Server is running on port: 3030
+31/03/2022, 9:15:02 - ERROR - cannot find boards | {}
+31/03/2022, 9:15:02 - ERROR - Failed to get boards | {}
+31/03/2022, 9:15:04 - ERROR - cannot find boards | {}
+31/03/2022, 9:15:04 - ERROR - Failed to get boards | {}
+31/03/2022, 9:16:40 - DEBUG - auth.service - login with username: guest
+31/03/2022, 9:16:40 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:16:53 - ERROR - cannot find boards | {}
+31/03/2022, 9:16:53 - ERROR - Failed to get boards | {}
+31/03/2022, 9:16:57 - DEBUG - auth.service - login with username: admin
+31/03/2022, 9:16:57 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:16:58 - DEBUG - auth.service - login with username: admin
+31/03/2022, 9:16:58 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:17:05 - DEBUG - auth.service - signup with username: dima, fullname: dima
+31/03/2022, 9:17:05 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:17:05 - DEBUG - Setting (U7sKZZsM_mOKBYznAAAJ) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 9:17:19 - DEBUG - auth.service - login with username: guest
+31/03/2022, 9:17:19 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:17:28 - DEBUG - auth.service - signup with username: admin, fullname: admin
+31/03/2022, 9:17:28 - DEBUG - auth.service - login with username: admin
+31/03/2022, 9:17:28 - DEBUG - Setting (WHzJm1pesCtEvbV3AAAL) socket.userId = 62454778ad0ab79e010ea303
+31/03/2022, 9:17:34 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 9:26:56 - INFO - Server is running on port: 3030
+31/03/2022, 9:31:13 - ERROR - cannot find boards | {}
+31/03/2022, 9:31:13 - ERROR - Failed to get boards | {}
+31/03/2022, 9:32:39 - INFO - Server is running on port: 3030
+31/03/2022, 9:34:30 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:34:30 - DEBUG - Setting (STRhHdx01sJ6J5XZAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 9:41:14 - DEBUG - auth.service - login with username: guest
+31/03/2022, 9:41:14 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:41:18 - DEBUG - auth.service - login with username: guest
+31/03/2022, 9:41:18 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:44:34 - INFO - Server is running on port: 3030
+31/03/2022, 9:45:35 - DEBUG - auth.service - login with username: guest
+31/03/2022, 9:45:35 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 9:45:41 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:45:41 - DEBUG - Setting (ISacSKNuvoDu24nUAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 9:45:45 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:45:45 - DEBUG - Setting (ISacSKNuvoDu24nUAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 9:48:48 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:48:48 - DEBUG - Setting (pXemIbwC1NH5eaYUAAAH) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 9:51:03 - INFO - Server is running on port: 3030
+31/03/2022, 9:51:09 - ERROR - cannot find boards | {}
+31/03/2022, 9:51:09 - ERROR - Failed to get boards | {}
+31/03/2022, 9:52:14 - DEBUG - auth.service - login with username: dima
+31/03/2022, 9:52:14 - DEBUG - Setting (f_8xw5jdWYctKDdNAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 15:35:04 - DEBUG - auth.service - login with username: guest
+31/03/2022, 15:35:04 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 15:35:09 - DEBUG - auth.service - login with username: admin
+31/03/2022, 15:35:09 - DEBUG - Setting (sFwbGxnFX3eMaoZ1AAAP) socket.userId = 62454778ad0ab79e010ea303
+31/03/2022, 15:35:13 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:35:15 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:35:17 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:35:25 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:35:34 - DEBUG - Emiting to user socket: 62454761ad0ab79e010ea301
+31/03/2022, 15:35:34 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:35:41 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:57:00 - DEBUG - Emiting to user socket: 62454761ad0ab79e010ea301
+31/03/2022, 15:57:00 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 15:57:05 - DEBUG - broadcast to all but user:  | 62454778ad0ab79e010ea303
+31/03/2022, 16:15:20 - INFO - Server is running on port: 3030
+31/03/2022, 16:15:25 - DEBUG - auth.service - login with username: guest
+31/03/2022, 16:15:25 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 16:15:58 - INFO - Server is running on port: 3030
+31/03/2022, 16:16:00 - DEBUG - auth.service - login with username: dima
+31/03/2022, 16:16:00 - DEBUG - Setting (xpidhRoQSUYwQ10IAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 16:16:04 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
