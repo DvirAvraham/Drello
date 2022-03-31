@@ -13,7 +13,6 @@ module.exports = {
 
 // LIST
 async function getBoards(req, res) {
-  console.log('req.session', req.session)
   try {
     const filterBy = req.query
     filterBy.currUser = req.session.user;
@@ -55,7 +54,6 @@ async function updateBoard(req, res) {
     const board = req.body;
     const updatedBoard = await boardService.update(board);
     socketService.emitTo({ type: 'board update', data: board })
-    console.log(board);
     res.json(updatedBoard);
   } catch (err) {
     logger.error('Failed to update toy', err)

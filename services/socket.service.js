@@ -1,4 +1,5 @@
 const boardService = require('../api/board/board.service.js')
+const userService = require('../api/user/user.service.js')
 const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
 
@@ -33,6 +34,17 @@ function connectSockets(http, session) {
             gIo.to(socket.myTopic).emit('board update')
         })
         socket.on('activity notify', async ({ activity, boardMembers }) => {
+            if (activity.toMember?._id) {
+                await userService.addActivity(activity.toMember._id, activity)
+            }
+            else {
+                boardMembers.forEach(async member => {
+                    if (member._id !== socket.userId) {
+                        await userService.addActivity(member._id, activity)
+                    }
+                })
+            }
+
             broadcast({ type: 'notify activity', data: activity, userId: activity.byMember._id })
             // socket.on('chat typing', username => {
             //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
