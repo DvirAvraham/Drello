@@ -44,7 +44,6 @@ function connectSockets(http, session) {
                     }
                 })
             }
-
             broadcast({ type: 'notify activity', data: activity, userId: activity.byMember._id })
             // socket.on('chat typing', username => {
             //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
@@ -84,7 +83,7 @@ async function emitToUser({ type, data, userId }) {
 
 // Send to all sockets BUT not the current socket 
 async function broadcast({ type, data, room = null, userId }) {
-    console.log('BROADCASTING', JSON.stringify(arguments));
+    // console.log('BROADCASTING', JSON.stringify(arguments)); 
     const excludedSocket = await _getUserSocket(userId)
     if (!excludedSocket) {
         // logger.debug('Shouldnt happen, socket not found')
