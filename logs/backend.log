@@ -2017,3 +2017,32 @@
 3/31/2022, 2:15:38 PM - INFO - Server is running on port: 3030
 >>>>>>> 02d0c75981ea8d20bd987d423f88ffb29f7a6b1d
 31/03/2022, 16:23:06 - INFO - Server is running on port: 3030
+31/03/2022, 16:23:48 - INFO - Server is running on port: 3030
+31/03/2022, 16:23:53 - DEBUG - auth.service - login with username: dima
+31/03/2022, 16:23:53 - DEBUG - Setting (ORzrbeBkdMOfJ7wsAAAB) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 16:23:59 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
+31/03/2022, 16:24:01 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
+31/03/2022, 16:24:05 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
+31/03/2022, 16:24:25 - DEBUG - auth.service - login with username: guest
+31/03/2022, 16:24:25 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 16:24:27 - DEBUG - auth.service - login with username: dima
+31/03/2022, 16:24:28 - DEBUG - Setting (54JUo3MMeNxA_ZYYAAAF) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 16:24:35 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
+31/03/2022, 16:24:43 - DEBUG - broadcast to all but user:  | 62454761ad0ab79e010ea301
+31/03/2022, 17:47:15 - DEBUG - auth.service - login with username: guest
+31/03/2022, 17:47:15 - ERROR - Failed to Login Invalid username or password
+31/03/2022, 17:47:16 - DEBUG - auth.service - login with username: dima
+31/03/2022, 17:47:16 - DEBUG - Setting (rlX4ztvdaYX7q7jLAAAh) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 18:14:41 - DEBUG - auth.service - login with username: dima
+31/03/2022, 18:14:41 - DEBUG - Setting (rlX4ztvdaYX7q7jLAAAh) socket.userId = 62454761ad0ab79e010ea301
+31/03/2022, 18:14:45 - DEBUG - auth.service - login with username: dima
+31/03/2022, 18:14:46 - DEBUG - Setting (rlX4ztvdaYX7q7jLAAAh) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:20:44 - DEBUG - Setting (n6kd4Cb8x2D819eNAABl) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:20:55 - DEBUG - Setting (blRkHIN7thSqcVPeAABn) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:21:04 - DEBUG - Setting (3rh7e71aPDzMEw8nAABp) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:21:05 - DEBUG - Setting (QuGRKx7v3c7S0Gt5AABr) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:21:09 - DEBUG - auth.service - login with username: guest
+01/04/2022, 12:21:09 - ERROR - Failed to Login Invalid username or password
+01/04/2022, 12:21:10 - DEBUG - auth.service - login with username: dima
+01/04/2022, 12:21:10 - DEBUG - Setting (QuGRKx7v3c7S0Gt5AABr) socket.userId = 62454761ad0ab79e010ea301
+01/04/2022, 12:21:13 - DEBUG - Setting (eNxDquUnBU0t5TAYAABt) socket.userId = 62454761ad0ab79e010ea301
