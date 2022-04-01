@@ -1,5 +1,6 @@
 const logger = require('../../services/logger.service')
 const boardService = require('./board.service')
+const userService = require('../user/user.service');
 const socketService = require('../../services/socket.service')
 
 
@@ -29,6 +30,7 @@ async function getBoardById(req, res) {
   try {
     const { id } = req.params
     const board = await boardService.getById(id)
+    userService.addRecentBoard(id, req.session.user._id);
     res.json(board)
   } catch (err) {
     logger.error('Failed to get toy', err)

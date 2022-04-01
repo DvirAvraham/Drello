@@ -6,10 +6,9 @@ module.exports = {
   query,
   getById,
   getByUsername,
-  // remove,
-  // update,
   add,
-  addActivity
+  addActivity,
+  addRecentBoard
 }
 
 async function query(filterBy = {}) {
@@ -59,24 +58,50 @@ async function addActivity(userId, activity) {
       username: user.username,
       fullname: user.fullname,
       imgUrl: user.imgUrl,
-      activities: user.activities
+      activities: user.activities,
+      recentBoards: user.recentBoards
     }
 
-    const { _id, byMember, txt, item, createdAt, toMember, boardId, boardTitle } = activity;
-    const { activities, ...byMemberToSave } = byMember;
+    const { byMemberId, txt, taskId, groupId, toMemberId, boardId } = activity;
 
     const activityToSave = {
-      _id,
-      byMember: byMemberToSave,
+      byMemberId,
       txt,
-      item,
-      createdAt,
-      toMember,
-      boardId,
-      boardTitle
+      taskId,
+      groupId,
+      createdAt: Date.now(),
+      toMemberId,
+      boardId
     }
 
     userToSave.activities.unshift(activityToSave);
+    const collection = await dbService.getCollection('user');
+    await collection.updateOne({ _id: userToSave._id }, { $set: userToSave });
+    return userToSave;
+  } catch (err) {
+    throw err;
+  }
+}
+
+async function addRecentBoard(boardId, userId) {
+  try {
+    const user = await getById(userId);
+    const userToSave = {
+      _id: ObjectId(user._id),
+      username: user.username,
+      fullname: user.fullname,
+      imgUrl: user.imgUrl,
+      activities: user.activities,
+      recentBoards: user.recentBoards
+    }
+
+    if (userToSave.recentBoards.includes(boardId)) {
+      const idx = userToSave.recentBoards.findIndex(id => id === boardId);
+      userToSave.recentBoards.splice(idx, 1);
+    }
+
+    userToSave.recentBoards.unshift(boardId);
+    userToSave.recentBoards = userToSave.recentBoards.slice(0, 5); // saving only the 5 most recent ones
     const collection = await dbService.getCollection('user');
     await collection.updateOne({ _id: userToSave._id }, { $set: userToSave });
     return userToSave;
@@ -122,7 +147,8 @@ async function add(user) {
       password: user.password,
       fullname: user.fullname,
       imgUrl: user.imgUrl,
-      activities: []
+      activities: [],
+      recentBoards: []
     }
 
     const collection = await dbService.getCollection('user')

@@ -34,8 +34,8 @@ function connectSockets(http, session) {
             gIo.to(socket.myTopic).emit('board update')
         })
         socket.on('activity notify', async ({ activity, boardMembers }) => {
-            if (activity.toMember?._id) {
-                await userService.addActivity(activity.toMember._id, activity)
+            if (activity.toMemberId) {
+                await userService.addActivity(activity.toMemberId, activity)
             }
             else {
                 boardMembers.forEach(async member => {
@@ -44,7 +44,7 @@ function connectSockets(http, session) {
                     }
                 })
             }
-            broadcast({ type: 'notify activity', data: activity, userId: activity.byMember._id })
+            broadcast({ type: 'notify activity', data: activity, userId: activity.byMemberId })
             // socket.on('chat typing', username => {
             //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
         })
