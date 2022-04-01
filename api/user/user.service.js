@@ -16,7 +16,7 @@ async function query(filterBy = {}) {
   const criteria = _buildCriteria(filterBy)
   try {
     const collection = await dbService.getCollection('user')
-    var users = await collection.find(criteria).toArray()
+    var users = await collection.find().toArray()
     users = users.map((user) => {
       delete user.password
       return user
@@ -62,18 +62,16 @@ async function addActivity(userId, activity) {
       activities: user.activities
     }
 
-    const { _id, byMember, txt, item, createdAt, toMember, boardId, boardTitle } = activity;
-    const { activities, ...byMemberToSave } = byMember;
+    const { byMemberId, txt, taskId, groupId, toMemberId, boardId } = activity;
 
     const activityToSave = {
-      _id,
-      byMember: byMemberToSave,
+      byMemberId,
       txt,
-      item,
-      createdAt,
-      toMember,
-      boardId,
-      boardTitle
+      taskId,
+      groupId,
+      createdAt: Date.now(),
+      toMemberId,
+      boardId
     }
 
     userToSave.activities.unshift(activityToSave);

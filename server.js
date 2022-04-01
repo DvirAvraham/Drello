@@ -3,7 +3,7 @@ const cors = require('cors')
 const path = require('path')
 const expressSession = require('express-session')
 const logger = require('./services/logger.service')
-
+const bodyParser = require('body-parser');
 const app = express()
 const http = require('http').createServer(app)
 
@@ -14,7 +14,10 @@ const session = expressSession({
   cookie: { secure: false },
 })
 
+
 app.use(session)
+app.use(bodyParser.json({ limit: '50mb' }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 app.use(express.json())
 app.use(express.static('public'))
 
