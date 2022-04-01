@@ -6,10 +6,9 @@ module.exports = {
   query,
   getById,
   getByUsername,
-  // remove,
-  // update,
   add,
-  addActivity
+  addActivity,
+  addRecentBoard
 }
 
 async function query(filterBy = {}) {
@@ -59,7 +58,8 @@ async function addActivity(userId, activity) {
       username: user.username,
       fullname: user.fullname,
       imgUrl: user.imgUrl,
-      activities: user.activities
+      activities: user.activities,
+      recentBoards: user.recentBoards
     }
 
     const { byMemberId, txt, taskId, groupId, toMemberId, boardId } = activity;
@@ -75,6 +75,33 @@ async function addActivity(userId, activity) {
     }
 
     userToSave.activities.unshift(activityToSave);
+    const collection = await dbService.getCollection('user');
+    await collection.updateOne({ _id: userToSave._id }, { $set: userToSave });
+    return userToSave;
+  } catch (err) {
+    throw err;
+  }
+}
+
+async function addRecentBoard(boardId, userId) {
+  try {
+    const user = await getById(userId);
+    const userToSave = {
+      _id: ObjectId(user._id),
+      username: user.username,
+      fullname: user.fullname,
+      imgUrl: user.imgUrl,
+      activities: user.activities,
+      recentBoards: user.recentBoards
+    }
+
+    if (userToSave.recentBoards.includes(boardId)) {
+      const idx = userToSave.recentBoards.findIndex(id => id === boardId);
+      userToSave.recentBoards.splice(idx, 1);
+    }
+
+    userToSave.recentBoards.unshift(boardId);
+    userToSave.recentBoards = userToSave.recentBoards.slice(0, 5); // saving only the 5 most recent ones
     const collection = await dbService.getCollection('user');
     await collection.updateOne({ _id: userToSave._id }, { $set: userToSave });
     return userToSave;
@@ -120,7 +147,8 @@ async function add(user) {
       password: user.password,
       fullname: user.fullname,
       imgUrl: user.imgUrl,
-      activities: []
+      activities: [],
+      recentBoards: []
     }
 
     const collection = await dbService.getCollection('user')
