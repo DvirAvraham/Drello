@@ -11,8 +11,7 @@ async function login(req, res) {
   const { username, password } = req.body
   try {
     const user = await authService.login(username, password)
-    const { activities, ...sessionUser } = user
-    req.session.user = sessionUser
+    req.session.user = user
     res.json(user)
   } catch (err) {
     logger.error('Failed to Login ' + err)
@@ -26,8 +25,7 @@ async function signup(req, res) {
 
     await authService.signup(username, password, fullname, imgUrl)
     const user = await authService.login(username, password)
-    const { activities, ...sessionUser } = user
-    req.session.user = sessionUser
+    req.session.user = user
     res.json(user)
   } catch (err) {
     logger.error('Failed to signup ' + err)
