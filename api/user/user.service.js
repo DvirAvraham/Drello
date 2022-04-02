@@ -60,10 +60,11 @@ async function addActivity(userId, activity) {
       fullname: user.fullname,
       imgUrl: user.imgUrl,
       activities: user.activities,
-      recentBoards: user.recentBoards
+      recentBoards: user.recentBoards,
+      isReaden: false,
     }
 
-    const { byMemberId, txt, taskId, groupId, toMemberId, boardId } = activity;
+    const { byMemberId, txt, taskId, groupId, toMemberId, boardId, isReaden } = activity;
 
     const activityToSave = {
       byMemberId,
@@ -72,7 +73,8 @@ async function addActivity(userId, activity) {
       groupId,
       createdAt: Date.now(),
       toMemberId,
-      boardId
+      boardId,
+      isReaden
     }
 
     userToSave.activities.unshift(activityToSave);
