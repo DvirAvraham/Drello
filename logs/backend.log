@@ -3808,3 +3808,18 @@
 4/2/2022, 1:26:17 PM - ERROR - Failed to get boards | {}
 4/2/2022, 1:26:55 PM - ERROR - cannot find boards | {}
 4/2/2022, 1:26:55 PM - ERROR - Failed to get boards | {}
+4/2/2022, 1:40:51 PM - INFO - Server is running on port: 3030
+4/2/2022, 1:41:26 PM - ERROR - cannot find boards | {}
+4/2/2022, 1:41:26 PM - ERROR - Failed to get boards | {}
+4/2/2022, 1:41:26 PM - DEBUG - Setting (_5EaaMBi2PzyyHrDAAAG) socket.userId = 62481727b8cf7dfe16636c31
+4/2/2022, 1:41:27 PM - ERROR - cannot find boards | {}
+4/2/2022, 1:41:27 PM - ERROR - Failed to get boards | {}
+4/2/2022, 3:59:23 PM - INFO - Server is running on port: 3030
+4/2/2022, 3:59:27 PM - ERROR - cannot find boards | {}
+4/2/2022, 3:59:27 PM - ERROR - Failed to get boards | {}
+4/2/2022, 3:59:27 PM - ERROR - cannot find boards | {}
+4/2/2022, 3:59:27 PM - ERROR - Failed to get boards | {}
+4/2/2022, 4:00:15 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 4:00:15 PM - DEBUG - Setting (ptg7p8ii-hUUFZG1AAAD) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 4:00:18 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 4:00:18 PM - ERROR - Failed to get toy | {}
