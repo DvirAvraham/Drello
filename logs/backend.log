@@ -3808,3 +3808,163 @@
 4/2/2022, 1:26:17 PM - ERROR - Failed to get boards | {}
 4/2/2022, 1:26:55 PM - ERROR - cannot find boards | {}
 4/2/2022, 1:26:55 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:10:50 PM - INFO - Server is running on port: 3030
+4/2/2022, 5:11:05 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:11:05 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:11:05 PM - ERROR - Failed to get toy | {}
+4/2/2022, 5:11:05 PM - ERROR - Failed to get toy | {}
+4/2/2022, 5:11:05 PM - DEBUG - Setting (SpVp6iDh8pKCSozdAAAG) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:11:05 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:11:05 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:11:05 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:11:05 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:11:06 PM - DEBUG - Setting (umEIYDZ5V0EZ7v4IAAAH) socket.userId = 62481727b8cf7dfe16636c31
+4/2/2022, 5:11:29 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 5:11:29 PM - DEBUG - Setting (SpVp6iDh8pKCSozdAAAG) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:13:29 PM - DEBUG - Setting (mdRQL0hMGfwK8F88AAAJ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:19:52 PM - DEBUG - Setting (tgNbXys_LLRGIakCAAAL) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:22:37 PM - DEBUG - Setting (rvsSbCFb8-EjADi8AAAN) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:29:46 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:29:46 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:29:46 PM - DEBUG - Setting (d8KudDELLGExh2MgAAAQ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:29:46 PM - DEBUG - Setting (NcqzFDHH2tMZohI1AAAR) socket.userId = 62481727b8cf7dfe16636c31
+4/2/2022, 5:31:10 PM - DEBUG - Setting (3xa-suxPnhnLVXhWAAAT) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:31:41 PM - DEBUG - Setting (3CAJGwg2lxOrP25GAAAV) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:32:24 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:32:24 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:32:24 PM - DEBUG - Setting (HaF8YUPCsPvdskEwAAAY) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:32:24 PM - DEBUG - Setting (k3uPejdyF_KjHtR_AAAZ) socket.userId = 62481727b8cf7dfe16636c31
+4/2/2022, 5:53:41 PM - INFO - Server is running on port: 3030
+4/2/2022, 5:54:33 PM - INFO - Server is running on port: 3030
+4/2/2022, 5:55:18 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:55:18 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:55:21 PM - ERROR - cannot find boards | {}
+4/2/2022, 5:55:21 PM - ERROR - Failed to get boards | {}
+4/2/2022, 5:55:22 PM - DEBUG - Setting (LwFA4MpqmKUww-J0AAAF) socket.userId = 62481727b8cf7dfe16636c31
+4/2/2022, 5:55:28 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 5:55:28 PM - DEBUG - Setting (LwFA4MpqmKUww-J0AAAF) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:55:39 PM - DEBUG - auth.service - login with username: 1
+4/2/2022, 5:55:39 PM - ERROR - Failed to Login Invalid username or password
+4/2/2022, 5:55:43 PM - DEBUG - auth.service - signup with username: 1, fullname: 1
+4/2/2022, 5:55:43 PM - DEBUG - auth.service - login with username: 1
+4/2/2022, 5:55:43 PM - DEBUG - Setting (Vweog8J_qIMmR8_bAAAC) socket.userId = 624863ef7934db33e9a9e0a4
+4/2/2022, 5:55:50 PM - DEBUG - Setting (7QP41trmT8OkQDlmAAAH) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 5:55:52 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 5:59:54 PM - DEBUG - Setting (Vweog8J_qIMmR8_bAAAC) socket.userId = 624863ef7934db33e9a9e0a4
+4/2/2022, 5:59:54 PM - DEBUG - Setting (7QP41trmT8OkQDlmAAAH) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:00:16 PM - DEBUG - Setting (-SJCZ_4VZIn8ra0VAAAJ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:00:17 PM - DEBUG - Setting (7ZcvWeEZeTrFNzioAAAL) socket.userId = 624863ef7934db33e9a9e0a4
+4/2/2022, 6:00:22 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 6:00:22 PM - DEBUG - Setting (-SJCZ_4VZIn8ra0VAAAJ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:00:29 PM - DEBUG - auth.service - signup with username: 123, fullname: 123
+4/2/2022, 6:00:29 PM - DEBUG - auth.service - login with username: 123
+4/2/2022, 6:00:30 PM - DEBUG - Setting (7ZcvWeEZeTrFNzioAAAL) socket.userId = 6248650d7934db33e9a9e0a5
+4/2/2022, 6:00:51 PM - DEBUG - Setting (JGgwi-t_cND44rFJAAAN) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:00:53 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 6:00:58 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 6:02:47 PM - DEBUG - Setting (7ZcvWeEZeTrFNzioAAAL) socket.userId = 6248650d7934db33e9a9e0a5
+4/2/2022, 6:02:48 PM - DEBUG - Setting (JGgwi-t_cND44rFJAAAN) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:02:53 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 6:02:58 PM - DEBUG - broadcast to all but user:  | 6248650d7934db33e9a9e0a5
+4/2/2022, 6:03:51 PM - DEBUG - Setting (KsQC5IPnZh-cXTKcAAAP) socket.userId = 6248650d7934db33e9a9e0a5
+4/2/2022, 6:05:38 PM - DEBUG - Setting (F6fl2xxw9ukgAMuNAAAT) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:05:38 PM - DEBUG - Setting (Tds6jWjJ3xQM-aAGAAAS) socket.userId = 6248650d7934db33e9a9e0a5
+4/2/2022, 6:05:48 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 6:05:49 PM - DEBUG - Setting (F6fl2xxw9ukgAMuNAAAT) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:05:51 PM - DEBUG - auth.service - login with username: 123
+4/2/2022, 6:05:51 PM - ERROR - Failed to Login Invalid username or password
+4/2/2022, 6:05:58 PM - DEBUG - auth.service - signup with username: 123, fullname: 123
+4/2/2022, 6:05:58 PM - ERROR - Failed to signup username already exists
+4/2/2022, 6:06:06 PM - DEBUG - auth.service - signup with username: qwe, fullname: qwe
+4/2/2022, 6:06:06 PM - DEBUG - auth.service - login with username: qwe
+4/2/2022, 6:06:06 PM - DEBUG - Setting (Tds6jWjJ3xQM-aAGAAAS) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:10:36 PM - DEBUG - Setting (dG3YjQRW5oOXCBswAAAV) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:10:38 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 6:19:47 PM - DEBUG - broadcast to all but user:  | 6248665e7934db33e9a9e0a8
+4/2/2022, 6:21:31 PM - DEBUG - Setting (7lxPp0eM2Lm5U7MgAAAX) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:21:40 PM - DEBUG - Emiting to user socket: 6248650d7934db33e9a9e0a5
+4/2/2022, 6:22:18 PM - DEBUG - Setting (MWJlfklDm0eqDTK2AAAZ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:26:05 PM - DEBUG - Setting (MWJlfklDm0eqDTK2AAAZ) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:26:05 PM - DEBUG - Setting (7lxPp0eM2Lm5U7MgAAAX) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:26:16 PM - DEBUG - broadcast to all but user:  | 6248665e7934db33e9a9e0a8
+4/2/2022, 6:26:33 PM - DEBUG - Setting (Ggi-1GvnSzKNstWcAAAb) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:26:38 PM - DEBUG - Setting (vjq7JGB3Y2w-H1b2AAAd) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:27:24 PM - DEBUG - Setting (7lxPp0eM2Lm5U7MgAAAX) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:27:24 PM - DEBUG - Setting (vjq7JGB3Y2w-H1b2AAAd) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:27:31 PM - DEBUG - Setting (7lxPp0eM2Lm5U7MgAAAX) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:27:31 PM - DEBUG - Setting (vjq7JGB3Y2w-H1b2AAAd) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:27:45 PM - DEBUG - Setting (KmRHiykOR2kBL-E7AAAf) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:27:46 PM - DEBUG - Setting (Etr0g4NtVcnZCROkAAAh) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:29:06 PM - DEBUG - Setting (KmRHiykOR2kBL-E7AAAf) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:29:06 PM - DEBUG - Setting (Etr0g4NtVcnZCROkAAAh) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:29:14 PM - DEBUG - Setting (IJAtFW5rrigzjbtYAAAj) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:29:15 PM - DEBUG - Setting (8qUNEz-WvN6d28HcAAAl) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:29:18 PM - DEBUG - broadcast to all but user:  | 62481535c58c77488c3cf28c
+4/2/2022, 6:29:34 PM - DEBUG - Emiting to user socket: 6248665e7934db33e9a9e0a8
+4/2/2022, 6:29:55 PM - DEBUG - Setting (8qUNEz-WvN6d28HcAAAl) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:29:55 PM - DEBUG - Setting (IJAtFW5rrigzjbtYAAAj) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:30:06 PM - DEBUG - Setting (8qUNEz-WvN6d28HcAAAl) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:30:06 PM - DEBUG - Setting (IJAtFW5rrigzjbtYAAAj) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:33:04 PM - DEBUG - Setting (IJAtFW5rrigzjbtYAAAj) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:33:04 PM - DEBUG - Setting (8qUNEz-WvN6d28HcAAAl) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:37:42 PM - DEBUG - Setting (VlIfRZhYxZZkNANWAAAn) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:37:44 PM - DEBUG - Setting (6VsHG5aiqL7rny5YAAAp) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:58:17 PM - INFO - Server is running on port: 3030
+4/2/2022, 6:59:43 PM - ERROR - cannot find boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get toy | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get toy | {}
+4/2/2022, 6:59:43 PM - ERROR - cannot find boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get boards | {}
+4/2/2022, 6:59:43 PM - DEBUG - Setting (DrFIFacRZQSFMVRNAAAC) socket.userId = 6248665e7934db33e9a9e0a8
+4/2/2022, 6:59:43 PM - ERROR - cannot find boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get toy | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get toy | {}
+4/2/2022, 6:59:43 PM - ERROR - cannot find boards | {}
+4/2/2022, 6:59:43 PM - ERROR - Failed to get boards | {}
+4/2/2022, 6:59:43 PM - DEBUG - Setting (sSIGgou8pVQPR9URAAAD) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 6:59:53 PM - DEBUG - auth.service - login with username: dvir6g6@gmail.com
+4/2/2022, 6:59:53 PM - DEBUG - Setting (DrFIFacRZQSFMVRNAAAC) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 7:00:54 PM - ERROR - cannot find boards | {}
+4/2/2022, 7:00:54 PM - ERROR - Failed to get boards | {}
+4/2/2022, 7:00:54 PM - DEBUG - Setting (vyv0BCHvPKXmz0ZoAAAF) socket.userId = 62481535c58c77488c3cf28c
+4/2/2022, 7:00:56 PM - ERROR - while finding user 62481535c58c77488c3cf28c | {}
+4/2/2022, 7:01:37 PM - INFO - Server is running on port: 3030
+4/2/2022, 7:02:29 PM - DEBUG - auth.service - signup with username: 1, fullname: 1
+4/2/2022, 7:02:29 PM - DEBUG - auth.service - login with username: 1
+4/2/2022, 7:02:29 PM - DEBUG - Setting (2fJtN9PnUu4ackpcAAAD) socket.userId = 6248739539bb074ac5116051
+4/2/2022, 7:02:43 PM - DEBUG - auth.service - signup with username: 2, fullname: 2
+4/2/2022, 7:02:43 PM - DEBUG - auth.service - login with username: 2
+4/2/2022, 7:02:43 PM - DEBUG - Setting (IUzMA8GhL9phfq07AAAB) socket.userId = 624873a339bb074ac5116052
+4/2/2022, 7:02:49 PM - DEBUG - Setting (NZvi2BStJ93i5iB5AAAF) socket.userId = 624873a339bb074ac5116052
+4/2/2022, 7:02:50 PM - DEBUG - broadcast to all but user:  | 624873a339bb074ac5116052
+4/2/2022, 7:03:22 PM - DEBUG - broadcast to all but user:  | 6248739539bb074ac5116051
+4/2/2022, 7:03:24 PM - DEBUG - broadcast to all but user:  | 624873a339bb074ac5116052
+4/2/2022, 7:03:32 PM - DEBUG - auth.service - login with username: 1
+4/2/2022, 7:03:32 PM - DEBUG - Setting (2fJtN9PnUu4ackpcAAAD) socket.userId = 6248739539bb074ac5116051
+4/2/2022, 7:03:38 PM - DEBUG - broadcast to all but user:  | 624873a339bb074ac5116052
+4/2/2022, 7:03:58 PM - DEBUG - auth.service - signup with username: dvir abrm, fullname: dvir abrm
+4/2/2022, 7:03:58 PM - DEBUG - auth.service - login with username: dvir abrm
+4/2/2022, 7:03:58 PM - DEBUG - Setting (2fJtN9PnUu4ackpcAAAD) socket.userId = 624873ee39bb074ac5116055
+4/2/2022, 7:04:02 PM - DEBUG - auth.service - login with username: 1
+4/2/2022, 7:04:02 PM - DEBUG - Setting (NZvi2BStJ93i5iB5AAAF) socket.userId = 6248739539bb074ac5116051
+4/2/2022, 7:04:08 PM - DEBUG - Setting (6WfZwrTi4que0HVsAAAH) socket.userId = 6248739539bb074ac5116051
+4/2/2022, 7:04:10 PM - DEBUG - broadcast to all but user:  | 6248739539bb074ac5116051
+4/2/2022, 7:06:52 PM - ERROR - cannot find boards | {}
+4/2/2022, 7:06:52 PM - ERROR - Failed to get boards | {}
+4/2/2022, 7:06:52 PM - ERROR - cannot find boards | {}
+4/2/2022, 7:06:52 PM - ERROR - Failed to get boards | {}
+4/2/2022, 7:06:55 PM - ERROR - cannot find boards | {}
+4/2/2022, 7:06:55 PM - ERROR - Failed to get boards | {}
+4/2/2022, 7:07:11 PM - DEBUG - auth.service - signup with username: rrr, fullname: rrr
+4/2/2022, 7:07:11 PM - DEBUG - auth.service - login with username: rrr
+4/2/2022, 7:07:11 PM - DEBUG - Setting (MrRjQGAxNi9gOfftAAAJ) socket.userId = 624874af39bb074ac5116056
+4/2/2022, 7:07:11 PM - DEBUG - auth.service - signup with username: ddd, fullname: ddd
+4/2/2022, 7:07:12 PM - DEBUG - auth.service - login with username: ddd
+4/2/2022, 7:07:12 PM - DEBUG - Setting (jlcRKpPtPif8rpsKAAAL) socket.userId = 624874b039bb074ac5116057
+4/2/2022, 7:07:22 PM - DEBUG - Setting (QDCHCC8NSKZKDjgfAAAN) socket.userId = 624874b039bb074ac5116057
+4/2/2022, 7:07:24 PM - DEBUG - broadcast to all but user:  | 624874b039bb074ac5116057
+4/2/2022, 7:07:35 PM - DEBUG - broadcast to all but user:  | 624874af39bb074ac5116056
+4/2/2022, 7:07:36 PM - DEBUG - broadcast to all but user:  | 624874b039bb074ac5116057
+4/2/2022, 7:08:13 PM - DEBUG - Emiting to user socket: 624874b039bb074ac5116057
