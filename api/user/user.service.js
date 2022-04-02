@@ -8,7 +8,8 @@ module.exports = {
   getByUsername,
   add,
   addActivity,
-  addRecentBoard
+  addRecentBoard,
+  update
 }
 
 async function query(filterBy = {}) {
@@ -94,7 +95,8 @@ async function addRecentBoard(boardId, userId) {
       fullname: user.fullname,
       imgUrl: user.imgUrl,
       activities: user.activities,
-      recentBoards: user.recentBoards
+      recentBoards: user.recentBoards,
+      favorites: user.favorites
     }
 
     if (userToSave.recentBoards.includes(boardId)) {
@@ -123,23 +125,26 @@ async function addRecentBoard(boardId, userId) {
 //   }
 // }
 
-// async function update(user) {
-//   try {
-//     // peek only updatable fields!
-//     const userToSave = {
-//       _id: ObjectId(user._id),
-//       username: user.username,
-//       fullname: user.fullname,
-//       isAdmin: user.isAdmin,
-//     }
-//     const collection = await dbService.getCollection('user')
-//     await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
-//     return userToSave
-//   } catch (err) {
-//     logger.error(`cannot update user ${user._id}`, err)
-//     throw err
-//   }
-// }
+async function update(user) {
+  try {
+    // peek only updatable fields!
+    const userToSave = {
+      _id: ObjectId(user._id),
+      username: user.username,
+      fullname: user.fullname,
+      imgUrl: user.imgUrl,
+      activities: user.activities,
+      recentBoards: user.recentBoards,
+      favorites: user.favorites
+    }
+    const collection = await dbService.getCollection('user')
+    await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
+    return userToSave
+  } catch (err) {
+    logger.error(`cannot update user ${user._id}`, err)
+    throw err
+  }
+}
 
 async function add(user) {
   try {
@@ -150,7 +155,8 @@ async function add(user) {
       fullname: user.fullname,
       imgUrl: user.imgUrl,
       activities: [],
-      recentBoards: []
+      recentBoards: [],
+      favorites: []
     }
 
     const collection = await dbService.getCollection('user')
