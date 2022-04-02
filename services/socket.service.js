@@ -49,11 +49,8 @@ function connectSockets(http, session) {
             //     socket.broadcast.to(socket.myTopic).emit('chat typing', username)
         })
         socket.on('notify user tag', async activity => {
-<<<<<<< HEAD
+            console.log(activity)
             await emitToUser({ type: 'mention user', data: activity, userId: activity.toMemberId })
-=======
-            await emitToUser({ type: 'tag user', data: activity, userId: activity.toMemberId })
->>>>>>> 253f13fd8c7645a968ab769229b30cccfd13d402
         })
 
         socket.on('user-watch', userId => {
