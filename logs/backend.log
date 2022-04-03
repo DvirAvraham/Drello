@@ -3982,3 +3982,49 @@
 4/2/2022, 4:53:20 PM - INFO - Server is running on port: 3030
 4/2/2022, 4:53:22 PM - INFO - Server is running on port: 3030
 >>>>>>> 253f13fd8c7645a968ab769229b30cccfd13d402
+4/3/2022, 8:37:14 AM - INFO - Server is running on port: 3030
+4/3/2022, 8:38:14 AM - ERROR - cannot find boards | {}
+4/3/2022, 8:38:14 AM - ERROR - Failed to get boards | {}
+4/3/2022, 8:38:14 AM - ERROR - cannot find boards | {}
+4/3/2022, 8:38:14 AM - ERROR - Failed to get boards | {}
+4/3/2022, 8:38:28 AM - DEBUG - auth.service - login with username: ggg
+4/3/2022, 8:38:28 AM - DEBUG - Setting (Wa7mF_fHAS8PUJJAAAAB) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:42:07 AM - DEBUG - auth.service - login with username: guest
+4/3/2022, 8:42:07 AM - ERROR - Failed to Login Invalid username or password
+4/3/2022, 8:42:14 AM - DEBUG - auth.service - login with username: ggg
+4/3/2022, 8:42:14 AM - DEBUG - Setting (Wa7mF_fHAS8PUJJAAAAB) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:44:40 AM - DEBUG - Setting (Gy68jQrliMQaafFXAAAD) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:45:02 AM - DEBUG - Setting (GgfOCLD6pkcGZR5yAAAF) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:45:43 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 8:46:30 AM - DEBUG - Setting (d-7HIVBp2I1z4fO9AAAH) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:46:46 AM - DEBUG - Setting (qsCyHr-GTpbR6rHyAAAJ) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:46:53 AM - DEBUG - Setting (8ttmjS10OKoOOVpdAAAL) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:46:58 AM - DEBUG - Setting (EhPQvYrgIv80CCPeAAAN) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:47:26 AM - DEBUG - Setting (vfpAhGXSvkup4HH5AAAP) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:47:36 AM - DEBUG - Setting (cA-s3s8_6a5HI3rCAAAR) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:48:23 AM - DEBUG - Setting (phjCndmSmgvxTp9BAAAT) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:49:51 AM - DEBUG - Setting (rHq4P_eBcxNj9o70AAAV) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:50:02 AM - DEBUG - Setting (O0NX29a-jT-DJ__TAAAX) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:51:02 AM - DEBUG - Setting (PBMy_Iq7WoNnP2aNAAAZ) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:51:06 AM - DEBUG - Setting (gFY6eIofqdqJZwSVAAAb) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:52:14 AM - DEBUG - Setting (f3CeHlPGij4sTKMfAAAd) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:52:27 AM - DEBUG - Setting (9SCq0ZE5-H7DvGsUAAAf) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:52:59 AM - DEBUG - Setting (9uwbW6Qc6UsM_B3PAAAh) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:54:38 AM - DEBUG - Setting (o65-sv3mc9gMAboiAAAj) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:54:55 AM - DEBUG - Setting (BnTJ_Y-T7lxVvFuTAAAl) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:55:02 AM - DEBUG - Setting (vZQvvTYE6cUJEyvrAAAn) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:55:44 AM - DEBUG - Setting (A86d5VTTEXYmxY3YAAAp) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:59:08 AM - DEBUG - Setting (sI7poaa0N0SVphF-AAAr) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 8:59:45 AM - DEBUG - Setting (Zgx2umw4kZhHgIhlAAAt) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:02:23 AM - DEBUG - Setting (gWHx5PNwrR_tf8IMAAAv) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:02:37 AM - DEBUG - Setting (wXMe8PNMSVG6SCbFAAAx) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:04:41 AM - DEBUG - Setting (ydrRAz5axPVWfMKBAAAz) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:04:54 AM - DEBUG - Setting (MpqTFZd-7i8v6O4qAAA1) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:05:37 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:05:41 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:05:46 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:05:53 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:05:55 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:07:57 AM - DEBUG - broadcast to all but user:  | 6248718d0d706568863815cc
+4/3/2022, 9:08:49 AM - INFO - Server is running on port: 3030
+4/3/2022, 9:08:51 AM - INFO - Server is running on port: 3030
