@@ -4062,3 +4062,60 @@
 4/3/2022, 9:31:15 AM - DEBUG - Setting (HI-AJ12FuS2ysNijAAAL) socket.userId = 624871740d706568863815c9
 4/3/2022, 9:32:40 AM - DEBUG - Setting (hg7p4ae8Gl2W-lmAAAAN) socket.userId = 624871740d706568863815c9
 4/3/2022, 9:37:47 AM - DEBUG - Setting (iOWvaGG2QYQXeW6xAAAP) socket.userId = 624871740d706568863815c9
+4/3/2022, 9:53:24 AM - INFO - Server is running on port: 3030
+4/3/2022, 9:53:34 AM - ERROR - cannot find boards | {}
+4/3/2022, 9:53:34 AM - ERROR - Failed to get boards | {}
+4/3/2022, 9:53:34 AM - ERROR - cannot find boards | {}
+4/3/2022, 9:53:34 AM - ERROR - Failed to get boards | {}
+4/3/2022, 9:53:35 AM - ERROR - cannot find boards | {}
+4/3/2022, 9:53:35 AM - ERROR - Failed to get boards | {}
+4/3/2022, 9:53:35 AM - ERROR - cannot find boards | {}
+4/3/2022, 9:53:35 AM - ERROR - Failed to get boards | {}
+4/3/2022, 9:53:35 AM - ERROR - Failed to get toy | {}
+4/3/2022, 9:53:35 AM - ERROR - Failed to get toy | {}
+4/3/2022, 9:53:35 AM - DEBUG - Setting (Q-W5mK5Ol9kZRdI_AAAI) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 9:53:36 AM - ERROR - cannot find boards | {}
+4/3/2022, 9:53:36 AM - ERROR - Failed to get boards | {}
+4/3/2022, 9:53:36 AM - DEBUG - Setting (-8vjplUZJBG5dl3DAAAJ) socket.userId = 624871740d706568863815c9
+4/3/2022, 9:56:28 AM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/3/2022, 9:56:28 AM - DEBUG - Setting (vQDlwZX5UU1OInHdAAAF) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:33:45 AM - DEBUG - Setting (K0Cww5_np8WGZr7PAAAL) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:33:46 AM - DEBUG - Setting (AiR5grx0TiJ9jJiIAAAN) socket.userId = 6248718d0d706568863815cc
+4/3/2022, 10:34:17 AM - ERROR - cannot find boards | {}
+4/3/2022, 10:34:17 AM - ERROR - Failed to get boards | {}
+4/3/2022, 10:34:18 AM - ERROR - cannot find boards | {}
+4/3/2022, 10:34:18 AM - ERROR - Failed to get boards | {}
+4/3/2022, 10:34:26 AM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/3/2022, 10:34:26 AM - DEBUG - Setting (fLALmihZFIXPdclWAAAP) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:34:29 AM - DEBUG - auth.service - login with username: guest
+4/3/2022, 10:34:29 AM - ERROR - Failed to Login Invalid username or password
+4/3/2022, 10:34:34 AM - DEBUG - auth.service - signup with username: guest, fullname: guest
+4/3/2022, 10:34:34 AM - DEBUG - auth.service - login with username: guest
+4/3/2022, 10:34:34 AM - DEBUG - Setting (gFIiXP12ovKbHmO5AAAR) socket.userId = 62494e0a1a806b287e5fc24c
+4/3/2022, 10:34:42 AM - DEBUG - Setting (LEiYp8U7cTGxB85iAAAT) socket.userId = 62494e0a1a806b287e5fc24c
+4/3/2022, 10:34:43 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:34:51 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:34:53 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:35:00 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:35:26 AM - DEBUG - Setting (iWvBmLq61wJEpM5VAAAV) socket.userId = 62494e0a1a806b287e5fc24c
+4/3/2022, 10:35:26 AM - DEBUG - Setting (67b3O5SN5Bl7M1RyAAAX) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:35:27 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:35:55 AM - DEBUG - Emiting to user socket: 624871740d706568863815c9
+4/3/2022, 10:36:03 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:36:14 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:36:23 AM - DEBUG - Setting (BpGIq-lrvaQ0rCwFAAAZ) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:36:28 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:36:33 AM - DEBUG - Setting (grZNHV9HYcGtn20dAAAb) socket.userId = 624871740d706568863815c9
+4/3/2022, 10:36:36 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:36:38 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:36:41 AM - DEBUG - broadcast to all but user:  | 62494e0a1a806b287e5fc24c
+4/3/2022, 10:37:01 AM - DEBUG - Setting (UrpXfUZLO0IP9yGrAAAd) socket.userId = 624871740d706568863815c9
+4/3/2022, 6:08:24 PM - INFO - Server is running on port: 3030
+4/3/2022, 6:43:10 PM - ERROR - cannot find boards | {}
+4/3/2022, 6:43:10 PM - ERROR - Failed to get boards | {}
+4/3/2022, 6:43:11 PM - ERROR - cannot find boards | {}
+4/3/2022, 6:43:11 PM - ERROR - Failed to get boards | {}
+4/3/2022, 6:43:22 PM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/3/2022, 6:43:22 PM - DEBUG - Setting (Z5g6cbOZUQU2WKfBAAAB) socket.userId = 624871740d706568863815c9
+4/3/2022, 6:51:41 PM - INFO - Server is running on port: 3030
+4/3/2022, 6:51:43 PM - INFO - Server is running on port: 3030
