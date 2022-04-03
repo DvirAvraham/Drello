@@ -1,7 +1,7 @@
 {
     "name": "drello",
     "short_name": "drello",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "en",
