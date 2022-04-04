@@ -5,5 +5,12 @@
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "en",
-    "scope": "/"
+    "scope": "/",
+    "icons": [
+        {
+            "src": "assets/logo/trello-logo.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ]
 }
