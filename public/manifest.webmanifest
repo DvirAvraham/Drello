@@ -9,7 +9,7 @@
     "icons": [
         {
             "src": "trello-logo.png",
-            "sizes": "48x48",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ]
