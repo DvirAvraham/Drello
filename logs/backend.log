@@ -4133,3 +4133,15 @@
 4/4/2022, 9:09:18 PM - DEBUG - Setting (BSX_FSjyABYeglOZAAAF) socket.userId = 624b34075de9e2b489addad9
 4/4/2022, 9:09:22 PM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
 4/4/2022, 9:11:09 PM - DEBUG - Setting (LOeDb5JDsh4zLdD7AAAH) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 11:33:01 PM - INFO - Server is running on port: 3030
+4/4/2022, 11:33:16 PM - DEBUG - auth.service - login with username: eden
+4/4/2022, 11:33:17 PM - ERROR - Failed to Login Invalid username or password
+4/4/2022, 11:33:20 PM - DEBUG - auth.service - login with username: eden
+4/4/2022, 11:33:20 PM - ERROR - Failed to Login Invalid username or password
+4/4/2022, 11:33:26 PM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/4/2022, 11:33:26 PM - DEBUG - Setting (FXEJ4-AVHFYRTe9EAAAB) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 11:33:36 PM - DEBUG - Setting (uKI2dxlJ_PAJg167AAAD) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 11:34:34 PM - DEBUG - Setting (5EwonDZTngKRFkuJAAAF) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 11:34:38 PM - DEBUG - Setting (0GZ8TnSjylILxXeKAAAH) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 11:35:21 PM - INFO - Server is running on port: 3030
+4/4/2022, 11:35:23 PM - INFO - Server is running on port: 3030
