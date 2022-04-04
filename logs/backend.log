@@ -4119,3 +4119,17 @@
 4/3/2022, 6:43:22 PM - DEBUG - Setting (Z5g6cbOZUQU2WKfBAAAB) socket.userId = 624871740d706568863815c9
 4/3/2022, 6:51:41 PM - INFO - Server is running on port: 3030
 4/3/2022, 6:51:43 PM - INFO - Server is running on port: 3030
+4/4/2022, 9:04:56 PM - INFO - Server is running on port: 3030
+4/4/2022, 9:06:58 PM - DEBUG - auth.service - login with username: guest
+4/4/2022, 9:06:58 PM - DEBUG - Setting (Ix5NXOMt6jrgMcoGAAAB) socket.userId = 6248bcc1846625bb24ff91ab
+4/4/2022, 9:07:02 PM - DEBUG - Setting (XI9CQMYmd71P3yRNAAAD) socket.userId = 6248bcc1846625bb24ff91ab
+4/4/2022, 9:08:06 PM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/4/2022, 9:08:06 PM - ERROR - Failed to Login Invalid username or password
+4/4/2022, 9:08:06 PM - DEBUG - auth.service - signup with username: edenaavidan@gmail.com, fullname: Eden Avidan
+4/4/2022, 9:08:07 PM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/4/2022, 9:08:07 PM - DEBUG - Setting (XI9CQMYmd71P3yRNAAAD) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 9:09:01 PM - DEBUG - Setting (BSX_FSjyABYeglOZAAAF) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 9:09:18 PM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/4/2022, 9:09:18 PM - DEBUG - Setting (BSX_FSjyABYeglOZAAAF) socket.userId = 624b34075de9e2b489addad9
+4/4/2022, 9:09:22 PM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
+4/4/2022, 9:11:09 PM - DEBUG - Setting (LOeDb5JDsh4zLdD7AAAH) socket.userId = 624b34075de9e2b489addad9
