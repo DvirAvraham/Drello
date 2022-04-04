@@ -1,11 +1,11 @@
 {
     "name": "drello",
     "short_name": "drello",
-    "start_url": "https://drello-app.herokuapp.com/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "en",
-    "scope": "https://drello-app.herokuapp.com/",
+    "scope": "/",
     "icons": [
         {
             "src": "trello-logo.png",
