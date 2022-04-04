@@ -8,7 +8,7 @@
     "scope": "/",
     "icons": [
         {
-            "src": "src/assets/logo/trello-logo.png",
+            "src": "trello-logo.png",
             "sizes": "48x48",
             "type": "image/png"
         }
