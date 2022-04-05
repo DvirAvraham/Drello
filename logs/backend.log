@@ -4145,3 +4145,19 @@
 4/4/2022, 11:34:38 PM - DEBUG - Setting (0GZ8TnSjylILxXeKAAAH) socket.userId = 624b34075de9e2b489addad9
 4/4/2022, 11:35:21 PM - INFO - Server is running on port: 3030
 4/4/2022, 11:35:23 PM - INFO - Server is running on port: 3030
+4/5/2022, 9:57:09 AM - INFO - Server is running on port: 3030
+4/5/2022, 10:00:14 AM - DEBUG - auth.service - login with username: edenaavidan@gmail.com
+4/5/2022, 10:00:14 AM - DEBUG - Setting (AOjyWiho6xuzYmErAAAB) socket.userId = 624b34075de9e2b489addad9
+4/5/2022, 10:00:18 AM - DEBUG - auth.service - signup with username: admin, fullname: admin
+4/5/2022, 10:00:18 AM - DEBUG - auth.service - login with username: admin
+4/5/2022, 10:00:18 AM - DEBUG - Setting (2kEWU-Xd2heWNZF3AAAD) socket.userId = 624be90233da6335d574f6a6
+4/5/2022, 10:00:23 AM - DEBUG - Setting (35FoozyHvBmkndtOAAAH) socket.userId = 624be90233da6335d574f6a6
+4/5/2022, 10:00:23 AM - DEBUG - Setting (O6IA0SJ0as2qRfNiAAAJ) socket.userId = 624b34075de9e2b489addad9
+4/5/2022, 10:00:25 AM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
+4/5/2022, 10:00:46 AM - DEBUG - Emiting to user socket: 624be90233da6335d574f6a6
+4/5/2022, 10:01:13 AM - DEBUG - Setting (35FoozyHvBmkndtOAAAH) socket.userId = 624be90233da6335d574f6a6
+4/5/2022, 10:01:14 AM - DEBUG - Setting (O6IA0SJ0as2qRfNiAAAJ) socket.userId = 624b34075de9e2b489addad9
+4/5/2022, 10:01:25 AM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
+4/5/2022, 10:01:55 AM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
+4/5/2022, 10:02:15 AM - DEBUG - broadcast to all but user:  | 624b34075de9e2b489addad9
+4/5/2022, 10:06:06 AM - DEBUG - Setting (_e1KkacdgUEKH0RUAAAL) socket.userId = 624b34075de9e2b489addad9
